@@ -1,8 +1,11 @@
 # VRINDA-STORE-ANALYSIS
+
  ## Project Objective:
 The Vrinda Store wants to create an annual sales report for 2022. So that the owner of the Vrinda Store can understand their customers and grow more sales in FY 2023 and 2024.
+
 ## Data set used:
 - <a href="https://github.com/Shilpa2654/VRINDA-STORE-ANALYSIS/blob/main/Vrinda%20Store%20Data%20Analysis%20raw%20data.xlsx">Vrinda store data</a>
+
 ## Questions (KPIs):
 1. Compare the sales and orders using single chart.
 2. Which Month got the highest sales and orders?
@@ -14,6 +17,8 @@ The Vrinda Store wants to create an annual sales report for 2022. So that the ow
 8. Highest selling category?
 9. Percentage of total orders delivered.
 10. Dashboard interaction- <a href="[https://github.com/Shilpa2654/VRINDA-STORE-ANALYSIS/blob/main/Vrinda_store_report.png](https://github.com/Shilpa2654/VRINDA-STORE-ANALYSIS/blob/main/vrinda%20store.png)">Report</a>
+
+
 ## Process:
 - Verify data for any missing values and anomalies and sort out the same.
 - Make sure data is consistent and clean with respect to datatype, data format and values used.
