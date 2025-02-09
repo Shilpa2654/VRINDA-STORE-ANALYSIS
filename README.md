@@ -18,7 +18,6 @@ The Vrinda Store wants to create an annual sales report for 2022. So that the ow
 9. Percentage of total orders delivered.
 10. Dashboard interaction - <a href="https://github.com/Shilpa2654/VRINDA-STORE-ANALYSIS/blob/main/vrinda%20store.png">Report</a> .
 
-
 ## Process:
 - Verify data for any missing values and anomalies and sort out the same.
 - Make sure data is consistent and clean with respect to datatype, data format and values used.
@@ -26,8 +25,6 @@ The Vrinda Store wants to create an annual sales report for 2022. So that the ow
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 ## Dashboard:  
 ![image](https://github.com/user-attachments/assets/b06cf1d4-9e41-4e39-a89b-ed3445cd0c68)
-
-
 
 ## Project insight:
 - women customers more likely to buy products compared to men(~65%).
